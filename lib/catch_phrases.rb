@@ -14,7 +14,7 @@ def link
   puts phrase
 end
 
-def all_phrase
+def all_phrase(hi)
   mario 
   toadstool 
   link 
